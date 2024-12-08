@@ -1,0 +1,162 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='1438' height='560' preserveAspectRatio='none' viewBox='0 0 1438 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1000%26quot%3b)' fill='none'%3e%3crect width='1438' height='560' x='0' y='0' fill='%230e2a47'%3e%3c/rect%3e%3cpath d='M1217.32 267.35a5.6 5.6 0 1 0-11.17 0.86 5.6 5.6 0 1 0 11.17-0.86zM1201.36 268.58a5.6 5.6 0 1 0-11.16 0.86 5.6 5.6 0 1 0 11.16-0.86zM1185.41 269.81a5.6 5.6 0 1 0-11.17 0.87 5.6 5.6 0 1 0 11.17-0.87zM1169.46 271.05a5.6 5.6 0 1 0-11.17 0.86 5.6 5.6 0 1 0 11.17-0.86zM1247.99 248.93a5.6 5.6 0 1 0-11.17 0.86 5.6 5.6 0 1 0 11.17-0.86zM1232.04 250.16a5.6 5.6 0 1 0-11.17 0.86 5.6 5.6 0 1 0 11.17-0.86zM1216.08 251.39a5.6 5.6 0 1 0-11.16 0.87 5.6 5.6 0 1 0 11.16-0.87zM1200.13 252.63a5.6 5.6 0 1 0-11.17 0.86 5.6 5.6 0 1 0 11.17-0.86z' stroke='%23d3b714' stroke-width='1' stroke-dasharray='4%2c 4'%3e%3c/path%3e%3ccircle r='52.31171021900845' cx='1368.29' cy='375.53' stroke='%23e73635' stroke-width='1' stroke-dasharray='2%2c 2'%3e%3c/circle%3e%3crect width='240' height='240' clip-path='url(%26quot%3b%23SvgjsClipPath1001%26quot%3b)' x='9.82' y='7.99' fill='url(%26quot%3b%23SvgjsPattern1002%26quot%3b)' transform='rotate(359.98%2c 129.82%2c 127.99)'%3e%3c/rect%3e%3crect width='131.8' height='131.8' clip-path='url(%26quot%3b%23SvgjsClipPath1003%26quot%3b)' x='762.53' y='257.13' fill='url(%26quot%3b%23SvgjsPattern1004%26quot%3b)' transform='rotate(76.17%2c 828.43%2c 323.03)'%3e%3c/rect%3e%3crect width='72' height='72' clip-path='url(%26quot%3b%23SvgjsClipPath1005%26quot%3b)' x='655.92' y='471.92' fill='url(%26quot%3b%23SvgjsPattern1006%26quot%3b)' transform='rotate(146.02%2c 691.92%2c 507.92)'%3e%3c/rect%3e%3crect width='150.48' height='150.48' clip-path='url(%26quot%3b%23SvgjsClipPath1007%26quot%3b)' x='415.11' y='270.85' fill='url(%26quot%3b%23SvgjsPattern1008%26quot%3b)' transform='rotate(141.72%2c 490.35%2c 346.09)'%3e%3c/rect%3e%3cpath d='M396.67 129.58L390.1 118.6 399.37 109.77 392.8 98.78 402.08 89.95 395.5 78.96 404.78 70.13M404.6 130.66L398.02 119.68 407.3 110.85 400.73 99.86 410 91.03 403.43 80.04 412.7 71.21' stroke='%23037b0b' stroke-width='1.58' stroke-dasharray='2%2c 2'%3e%3c/path%3e%3ccircle r='46.666666666666664' cx='446.29' cy='123.15' stroke='%23d3b714' stroke-width='1' stroke-dasharray='3%2c 3'%3e%3c/circle%3e%3ccircle r='46.666666666666664' cx='1294.41' cy='434.87' fill='%23e73635'%3e%3c/circle%3e%3crect width='109.8' height='109.8' clip-path='url(%26quot%3b%23SvgjsClipPath1009%26quot%3b)' x='149.85' y='279.98' fill='url(%26quot%3b%23SvgjsPattern1010%26quot%3b)' transform='rotate(216.71%2c 204.75%2c 334.88)'%3e%3c/rect%3e%3crect width='156.24' height='156.24' clip-path='url(%26quot%3b%23SvgjsClipPath1011%26quot%3b)' x='1041.58' y='274.06' fill='url(%26quot%3b%23SvgjsPattern1012%26quot%3b)' transform='rotate(35.46%2c 1119.7%2c 352.18)'%3e%3c/rect%3e%3crect width='372' height='372' clip-path='url(%26quot%3b%23SvgjsClipPath1013%26quot%3b)' x='-159.77' y='288.73' fill='url(%26quot%3b%23SvgjsPattern1014%26quot%3b)' transform='rotate(229.05%2c 26.23%2c 474.73)'%3e%3c/rect%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1000'%3e%3crect width='1438' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3cpattern x='0' y='0' width='6' height='6' patternUnits='userSpaceOnUse' id='SvgjsPattern1002'%3e%3cpath d='M3 1L3 5M1 3L5 3' stroke='%23d3b714' fill='none' stroke-width='1'%3e%3c/path%3e%3c/pattern%3e%3cclipPath id='SvgjsClipPath1001'%3e%3ccircle r='60' cx='129.82' cy='127.99'%3e%3c/circle%3e%3c/clipPath%3e%3cpattern x='0' y='0' width='13.18' height='13.18' patternUnits='userSpaceOnUse' id='SvgjsPattern1004'%3e%3cpath d='M6.59 1L6.59 12.18M1 6.59L12.18 6.59' stroke='%23037b0b' fill='none' stroke-width='5.28'%3e%3c/path%3e%3c/pattern%3e%3cclipPath id='SvgjsClipPath1003'%3e%3ccircle r='32.95' cx='828.43' cy='323.03'%3e%3c/circle%3e%3c/clipPath%3e%3cpattern x='0' y='0' width='72' height='6' patternUnits='userSpaceOnUse' id='SvgjsPattern1006'%3e%3crect width='72' height='3' x='0' y='0' fill='%23d3b714'%3e%3c/rect%3e%3crect width='72' height='3' x='0' y='3' fill='rgba(0%2c 0%2c 0%2c 0)'%3e%3c/rect%3e%3c/pattern%3e%3cclipPath id='SvgjsClipPath1005'%3e%3ccircle r='18' cx='691.92' cy='507.92'%3e%3c/circle%3e%3c/clipPath%3e%3cpattern x='0' y='0' width='12.54' height='12.54' patternUnits='userSpaceOnUse' id='SvgjsPattern1008'%3e%3cpath d='M0 12.54L6.27 0L12.54 12.54' stroke='%23e73635' fill='none'%3e%3c/path%3e%3c/pattern%3e%3cclipPath id='SvgjsClipPath1007'%3e%3ccircle r='37.62' cx='490.35' cy='346.09'%3e%3c/circle%3e%3c/clipPath%3e%3cpattern x='0' y='0' width='10.98' height='10.98' patternUnits='userSpaceOnUse' id='SvgjsPattern1010'%3e%3cpath d='M5.49 1L5.49 9.98M1 5.49L9.98 5.49' stroke='%23e73635' fill='none' stroke-width='2.48'%3e%3c/path%3e%3c/pattern%3e%3cclipPath id='SvgjsClipPath1009'%3e%3ccircle r='27.45' cx='204.75' cy='334.88'%3e%3c/circle%3e%3c/clipPath%3e%3cpattern x='0' y='0' width='8.68' height='8.68' patternUnits='userSpaceOnUse' id='SvgjsPattern1012'%3e%3cpath d='M0 8.68L4.34 0L8.68 8.68' stroke='%23037b0b' fill='none'%3e%3c/path%3e%3c/pattern%3e%3cclipPath id='SvgjsClipPath1011'%3e%3ccircle r='39.06' cx='1119.7' cy='352.18'%3e%3c/circle%3e%3c/clipPath%3e%3cpattern x='0' y='0' width='6' height='6' patternUnits='userSpaceOnUse' id='SvgjsPattern1014'%3e%3cpath d='M0 6L3 0L6 6' stroke='%23e73635' fill='none'%3e%3c/path%3e%3c/pattern%3e%3cclipPath id='SvgjsClipPath1013'%3e%3ccircle r='93' cx='26.23' cy='474.73'%3e%3c/circle%3e%3c/clipPath%3e%3c/defs%3e%3c/svg%3e");
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 1em 0;
+    text-align: center;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 1em;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 0.5em 1em;
+    transition: background 0.3s;
+}
+
+nav ul li a:hover {
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 5px;
+}
+
+section {
+    padding: 2em;
+    background: rgba(255, 255, 255, 0.8);
+    margin: 2em auto;
+    border-radius: 10px;
+    max-width: 1200px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.recipe-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.recipe-thumbnail {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 1em;
+    width: calc(33.333% - 2em);
+    box-sizing: border-box;
+}
+
+.recipe-thumbnail img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.recipe-thumbnail h3 {
+    margin: 0.5em 0;
+}
+
+.recipe-thumbnail a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.recipe-thumbnail a:hover {
+    color: #e67e22;
+}
+
+input[type="text"] {
+    width: calc(100% - 2em);
+    padding: 0.5em;
+    margin: 1em 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    padding: 0.5em 1em;
+    background-color: #e67e22;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+button:hover {
+    background-color: #d35400;
+}
+
+label {
+    display: block;
+    margin: 1em 0;
+}
+
+input[type="checkbox"] {
+    margin-right: 0.5em;
+}
+
+/* Contact Page Styles */
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+form label {
+    margin: 10px 0 5px;
+    font-weight: bold;
+}
+
+form input, form textarea {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+form button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+form button:hover {
+    background-color: #45a049;
+}

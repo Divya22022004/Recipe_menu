@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Main Courses</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Main Courses</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="appetizers.html">Appetizers</a></li>
+                <li><a href="main_courses.html">Main Courses</a></li>
+                <li><a href="desserts.html">Desserts</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <h2>Search Recipes</h2>
+        <input type="text" id="search-input" placeholder="Search by name or ingredient">
+        <button id="search-button">Search</button>
+    </section>
+    <section>
+        <h2>Filter Options</h2>
+        <label>
+            <input type="radio" name="filter" value="vegetarian"> Vegetarian
+        </label>
+        <label>
+            <input type="radio" name="filter" value="non-vegetarian"> Non-Vegetarian
+        </label>
+    </section>
+    <section class="recipe-container" id="recipe-container">
+        <div class="recipe-thumbnail non-vegetarian">
+            <img src="parota.jpg" alt="Parota">
+            <h3><a href="recipe1.html">Parota</a></h3>
+            <p>Layered flatbread served with curry.</p>
+        </div>
+        <div class="recipe-thumbnail non-vegetarian">
+            <img src="biriyani.jpg" alt="Biriyani">
+            <h3><a href="recipe2.html">Biriyani</a></h3>
+            <p>Spiced rice dish with aromatic flavors.</p>
+        </div>
+        <div class="recipe-thumbnail non-vegetarian">
+            <img src="noodles.jpg" alt="Noodles">
+            <h3><a href="recipe3.html">Noodles</a></h3>
+            <p>Stir-fried noodles with vegetables.</p>
+        </div>
+        <div class="recipe-thumbnail vegetarian">
+            <img src="idly.jpg" alt="Idly">
+            <h3><a href="recipe4.html">Idly</a></h3>
+            <p>Steamed rice cakes served with chutney.</p>
+        </div>
+        <div class="recipe-thumbnail vegetarian">
+            <img src="chapatti.jpg" alt="Chapatti">
+            <h3><a href="recipe5.html">Chapatti</a></h3>
+            <p>Whole wheat flatbread.</p>
+        </div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>

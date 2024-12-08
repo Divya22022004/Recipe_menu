@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Appetizers</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Appetizers</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="appetizers.html">Appetizers</a></li>
+                <li><a href="main_courses.html">Main Courses</a></li>
+                <li><a href="desserts.html">Desserts</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <h2>Search Recipes</h2>
+        <input type="text" id="search-input" placeholder="Search by name or ingredient">
+        <button id="search-button">Search</button>
+    </section>
+    <section>
+        <h2>Filter Options</h2>
+        <label>
+            <input type="radio" name="filter" value="vegetarian"> Vegetarian
+        </label>
+        <label>
+            <input type="radio" name="filter" value="non-vegetarian"> Non-Vegetarian
+        </label>
+    </section>
+    <section class="recipe-container" id="recipe-container">
+            <div class="recipe-thumbnail vegetarian">
+            <img src="spring_rolls.jpg" alt="Spring Rolls">
+            <h3><a href="recipe6.html">Spring Rolls</a></h3>
+            <p>Crispy and delicious vegetable spring rolls.</p>
+        </div>
+        <div class="recipe-thumbnail vegetarian">
+            <img src="bruschetta.jpg" alt="Bruschetta">
+            <h3><a href="recipe7.html">Bruschetta</a></h3>
+            <p>Italian appetizer with tomato and basil topping on toasted bread.</p>
+        </div>
+        <div class="recipe-thumbnail vegetarian">
+            <img src="stuffed_mushrooms.jpg" alt="Stuffed Mushrooms">
+            <h3><a href="recipe8.html">Stuffed Mushrooms</a></h3>
+            <p>Mushrooms filled with a savory cheese mixture.</p>
+        </div>
+        <div class="recipe-thumbnail non-vegetarian">
+            <img src="guacamole.jpg" alt="Guacamole">
+            <h3><a href="recipe9.html">Guacamole</a></h3>
+            <p>Fresh and creamy avocado dip with lime and spices.</p>
+        </div>
+        <div class="recipe-thumbnail non-vegetarian">
+            <img src="chicken_wings.jpg" alt="Chicken Wings">
+            <h3><a href="recipe10.html">Chicken Wings</a></h3>
+            <p>Spicy and tangy chicken wings perfect for any gathering.</p>
+        </div>
+    </section>
+    <script src="script.js"></script>
+</body>
+</html>
+
+

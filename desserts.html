@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desserts</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Desserts</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="appetizers.html">Appetizers</a></li>
+                <li><a href="main_courses.html">Main Courses</a></li>
+                <li><a href="desserts.html">Desserts</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <h2>Search Recipes</h2>
+        <input type="text" id="search-input" placeholder="Search by name or ingredient">
+        <button id="search-button">Search</button>
+    </section>
+    <section>
+        <h2>Filter Options</h2>
+        <label>
+            <input type="radio" name="filter" value="vegetarian"> Vegetarian
+        </label>
+        <label>
+            <input type="radio" name="filter" value="non-vegetarian"> Non-Vegetarian
+        </label>
+    </section>
+    <section class="recipe-container" id="recipe-container">
+        <div class="recipe-thumbnail vegetarian">
+            <img src="gulab_jamun.jpg" alt="Gulab Jamun">
+            <h3><a href="recipe11.html">Gulab Jamun</a></h3>
+            <p>Sweet, deep-fried milk balls soaked in a fragrant syrup.</p>
+        </div>
+        <div class="recipe-thumbnail vegetarian">
+            <img src="rasgulla.jpg" alt="Rasgulla">
+            <h3><a href="recipe12.html">Rasgulla</a></h3>
+            <p>Soft and spongy cheese balls soaked in sugar syrup.</p>
+        </div>
+        <div class="recipe-thumbnail vegetarian">
+            <img src="kheer.jpg" alt="Kheer">
+            <h3><a href="recipe13.html">Kheer</a></h3>
+            <p>Rich and creamy rice pudding flavored with cardamom and saffron.</p>
+        </div>
+        <div class="recipe-thumbnail vegetarian">
+            <img src="jalebi.jpg" alt="Jalebi">
+            <h3><a href="recipe14.html">Jalebi</a></h3>
+            <p>Sweet, crispy spiral-shaped dessert soaked in sugar syrup.</p>
+        </div>
+        <div class="recipe-thumbnail vegetarian">
+            <img src="barfi.jpg" alt="Barfi">
+            <h3><a href="recipe15.html">Barfi</a></h3>
+            <p>Rich and dense milk-based sweet with nuts.</p>
+        </div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
